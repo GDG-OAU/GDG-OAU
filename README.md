@@ -57,43 +57,6 @@ flowchart TB
     classDef green fill:#E6F4EA,stroke:#188038,color:#0D3B1E
 ```
 
-## Tracks
-
-| Track | Lead | Community |
-|---|---|---|
-| Mobile App Development | Feranmi Oresajo | [GitHub](https://github.com/GDGOAU-MOBILE) |
-| Web Development | Stephen Gbolagade | Coming soon |
-| Cybersecurity | Moshood Bushroh | Coming soon |
-| Game Development | Daniel Okpeta | Coming soon |
-| Design | Miftahudeen Dhul-Nurain | Coming soon |
-| DS / ML | Paul Adewole | Coming soon |
-| Research | Pelumi Ogunleye | Coming soon |
-| Quantum Computing | Adigun Oreoluwa | Coming soon |
-| Quantitative Finance | Adokiye Destiny | Coming soon |
-| Product Management | Aishat Oke | Coming soon |
-
-Each community has its own GitHub organization. Links appear here as they go live.
-
-## Our Project
-
-### Secure Screen Lab
-
-[![Kotlin](https://img.shields.io/badge/Kotlin-1A73E8?style=flat-square)](https://github.com/GDGOAU-MOBILE/secure-screen-lab)
-[![Android](https://img.shields.io/badge/Android-188038?style=flat-square)](https://github.com/GDGOAU-MOBILE/secure-screen-lab)
-[![Mobile track](https://img.shields.io/badge/Mobile_track-F9AB00?style=flat-square)](https://github.com/GDGOAU-MOBILE)
-
-An Android app that shows how the platform protects sensitive content from screenshots, screen recording and unauthorized capture. Five hands-on experiments cover `FLAG_SECURE`, capture detection and how DRM differs from a window flag.
-
-[View the repository](https://github.com/GDGOAU-MOBILE/secure-screen-lab)
-
-## Leadership
-
-| Role | Name |
-|---|---|
-| Lead Organizer | Temitope Akinsunmade |
-| Technical Lead Organizer | Joseph Taiwo |
-| Co-lead Organizer | Owoeye Olajumoke |
-
 ## Get Involved
 
 1. Visit [gdgoau.com](https://www.gdgoau.com) and say hello.
