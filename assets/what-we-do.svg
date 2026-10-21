@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="What we do: Learn, Build, Share, Connect">
+  <g transform="translate(0 0)">
+    <rect width="285" height="360" rx="32" fill="#D3E3FD"/>
+    <g transform="translate(28 28)"><circle cx="36" cy="36" r="36" fill="#1A73E8"/><g fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d="M18 27 C25 23 31 23 36 27 C41 23 47 23 54 27 V49 C47 45 41 45 36 49 C31 45 25 45 18 49 Z M36 27 V49"/></g></g>
+    <text x="28" y="164" font-family="'Google Sans','Product Sans','Segoe UI',Roboto,Arial,sans-serif" font-size="34" font-weight="700" fill="#041E49">Learn</text>
+    <text x="28" y="206" font-family="'Google Sans','Product Sans','Segoe UI',Roboto,Arial,sans-serif" font-size="20" fill="#041E49">Hands-on sessions and</text>
+    <text x="28" y="236" font-family="'Google Sans','Product Sans','Segoe UI',Roboto,Arial,sans-serif" font-size="20" fill="#041E49">study tracks led by</text>
+    <text x="28" y="266" font-family="'Google Sans','Product Sans','Segoe UI',Roboto,Arial,sans-serif" font-size="20" fill="#041E49">students and invited</text>
+    <text x="28" y="296" font-family="'Google Sans','Product Sans','Segoe UI',Roboto,Arial,sans-serif" font-size="20" fill="#041E49">speakers.</text>
+  </g>
+  <g transform="translate(305 0)">
+    <rect width="285" height="360" rx="32" fill="#FCE8E6"/>
+    <g transform="translate(28 28)"><circle cx="36" cy="36" r="36" fill="#D93025"/><g fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d="M30 26 L20 38 L30 50 M42 26 L52 38 L42 50 M39 24 L33 52"/></g></g>
+    <text x="28" y="164" font-family="'Google Sans','Product Sans','Segoe UI',Roboto,Arial,sans-serif" font-size="34" font-weight="700" fill="#5F1410">Build</text>
+    <text x="28" y="206" font-family="'Google Sans','Product Sans','Segoe UI',Roboto,Arial,sans-serif" font-size="20" fill="#5F1410">Real projects with real</text>
+    <text x="28" y="236" font-family="'Google Sans','Product Sans','Segoe UI',Roboto,Arial,sans-serif" font-size="20" fill="#5F1410">code review, shipped</text>
+    <text x="28" y="266" font-family="'Google Sans','Product Sans','Segoe UI',Roboto,Arial,sans-serif" font-size="20" fill="#5F1410">in the open.</text>
+  </g>
+  <g transform="translate(610 0)">
+    <rect width="285" height="360" rx="32" fill="#FEF7E0"/>
+    <g transform="translate(28 28)"><circle cx="36" cy="36" r="36" fill="#B06000"/><g fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d="M36 52 V26 M26 36 L36 26 L46 36"/></g></g>
+    <text x="28" y="164" font-family="'Google Sans','Product Sans','Segoe UI',Roboto,Arial,sans-serif" font-size="34" font-weight="700" fill="#3D2A00">Share</text>
+    <text x="28" y="206" font-family="'Google Sans','Product Sans','Segoe UI',Roboto,Arial,sans-serif" font-size="20" fill="#3D2A00">Videos, write-ups and</text>
+    <text x="28" y="236" font-family="'Google Sans','Product Sans','Segoe UI',Roboto,Arial,sans-serif" font-size="20" fill="#3D2A00">talks that explain how</text>
+    <text x="28" y="266" font-family="'Google Sans','Product Sans','Segoe UI',Roboto,Arial,sans-serif" font-size="20" fill="#3D2A00">things work.</text>
+  </g>
+  <g transform="translate(915 0)">
+    <rect width="285" height="360" rx="32" fill="#E6F4EA"/>
+    <g transform="translate(28 28)"><circle cx="36" cy="36" r="36" fill="#188038"/><g fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d="M24 30 L48 30 M24 30 L36 50 M48 30 L36 50"/><circle cx="24" cy="30" r="4" fill="#fff"/><circle cx="48" cy="30" r="4" fill="#fff"/><circle cx="36" cy="50" r="4" fill="#fff"/></g></g>
+    <text x="28" y="164" font-family="'Google Sans','Product Sans','Segoe UI',Roboto,Arial,sans-serif" font-size="34" font-weight="700" fill="#0D3B1E">Connect</text>
+    <text x="28" y="206" font-family="'Google Sans','Product Sans','Segoe UI',Roboto,Arial,sans-serif" font-size="20" fill="#0D3B1E">Peers, mentors and</text>
+    <text x="28" y="236" font-family="'Google Sans','Product Sans','Segoe UI',Roboto,Arial,sans-serif" font-size="20" fill="#0D3B1E">alumni across the</text>
+    <text x="28" y="266" font-family="'Google Sans','Product Sans','Segoe UI',Roboto,Arial,sans-serif" font-size="20" fill="#0D3B1E">Google developer</text>
+    <text x="28" y="296" font-family="'Google Sans','Product Sans','Segoe UI',Roboto,Arial,sans-serif" font-size="20" fill="#0D3B1E">ecosystem.</text>
+  </g>
+</svg>
