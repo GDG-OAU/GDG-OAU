@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GDGOAU-MOBILE/.github/main/profile/assets/banner.svg" alt="Welcome to GDG OAU" width="100%">
+  <img src="https://raw.githubusercontent.com/GDG-OAU/.github/main/profile/assets/banner.svg" alt="Welcome to GDG OAU" width="100%">
 </p>
 
 <p align="center">
