@@ -14,14 +14,9 @@ Google Developer Group On Campus, OAU. We are student developers at Obafemi Awol
 
 ## What We Do
 
-<table>
-  <tr>
-    <td width="25%"><h3>Learn</h3>Hands-on sessions and study tracks led by students and invited speakers.</td>
-    <td width="25%"><h3>Build</h3>Real projects with real code review, shipped in the open.</td>
-    <td width="25%"><h3>Share</h3>Videos, write-ups and talks that explain how things work.</td>
-    <td width="25%"><h3>Connect</h3>Peers, mentors and alumni across the Google developer ecosystem.</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GDG-OAU/GDG-OAU/main/assets/what-we-do.svg" alt="What we do: Learn, Build, Share, Connect" width="100%">
+</p>
 
 ## Our Community
 
