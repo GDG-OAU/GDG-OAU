@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GDG-OAU/.github/main/profile/assets/banner.svg" alt="Welcome to GDG OAU" width="100%">
+ <img src="https://raw.githubusercontent.com/GDG-OAU/GDG-OAU/main/assets/banner.svg" alt="Welcome to GDG OAU" width="100%">
 </p>
 
 <p align="center">
@@ -65,10 +65,6 @@ flowchart TB
 4. Open a pull request with a small, focused change.
 5. Present what you built.
 
-## Code of Conduct
-
-Be kind, give feedback on the work and never on the person, credit other people, and test security techniques only on your own devices and apps or with permission.
-
 ## Meet Us
 
 <p align="center">
@@ -77,4 +73,4 @@ Be kind, give feedback on the work and never on the person, credit other people,
 
 <p align="center"><b>@gdgoau</b> on X, Instagram and LinkedIn</p>
 
-<p align="center"><sub>GDG OAU is a community group run by students. It is not an official Google product.</sub></p>
+<p align="center"><sub>GDG OAU community</sub></p>
