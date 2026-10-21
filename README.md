@@ -52,14 +52,6 @@ flowchart TB
     classDef green fill:#E6F4EA,stroke:#188038,color:#0D3B1E
 ```
 
-## Get Involved
-
-1. Visit [gdgoau.com](https://www.gdgoau.com) and say hello.
-2. Pick a track and commit to it for the session.
-3. Find an issue labeled `good first issue` in any repository.
-4. Open a pull request with a small, focused change.
-5. Present what you built.
-
 ## Meet Us
 
 <p align="center">
